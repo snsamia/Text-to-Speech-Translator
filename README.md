@@ -11,7 +11,7 @@ This project combines text translation and speech synthesis to enable users to c
 
 ## 🛠️ Installation
 Install the required Python packages:
-pip install gTTS
-pip install googletrans==4.0.0-rc1
-pip install langdetect
-pip install PyMuPDF
+- pip install gTTS
+- pip install googletrans==4.0.0-rc1
+- pip install langdetect
+- pip install PyMuPDF
